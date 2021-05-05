@@ -96,11 +96,6 @@ export default class ProductList extends React.Component {
         return (
             <React.Fragment>
                 <Panel>
-                    <Panel.Heading>
-                        <Panel.Title toggle>
-                            Filter
-                        </Panel.Title>
-                    </Panel.Heading>
                     <Panel.Body collapsible>
                     </Panel.Body>
                 </Panel>

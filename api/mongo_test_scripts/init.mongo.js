@@ -10,7 +10,7 @@
  */
 
 /* eslint linebreak-style: ["error", "windows"] */
-let db;
+//let db;
 db.products.remove({});
 db.deleted_products.remove({});
 
