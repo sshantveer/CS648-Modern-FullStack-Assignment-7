@@ -1,0 +1,47 @@
+body {
+    font-family: Calibri;
+}
+
+.table {
+    alignment: left;
+    border-collapse: collapse;
+    width: 500px;
+    font-family: Calibri;
+    border: 1px solid;
+}
+
+th, tr, td {
+    font-size: 14px;
+    font-family: Calibri;
+    width: 150px;
+    text-align: center;
+    border: 1px solid;
+    padding: 1px;
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+
+h4 {
+    font-size: 16px;
+    font-family: Calibri;
+}
+
+h1 {
+    font-family: Calibri;
+    font-size: 18px;
+}
+
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+a.active {background-color: #7ce8f5;}
+
+/*
+input.invalid {border-color: red;}
+div.error {color: red;}*/
